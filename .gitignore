@@ -1,0 +1,11 @@
+*.o
+*.dis
+*.elf
+*.map
+*.rec
+*.txt
+.vscode/
+*.b.c
+*.x
+*.b
+*dump
